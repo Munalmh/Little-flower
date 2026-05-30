@@ -20,9 +20,9 @@ export default function Gallery() {
     },
     {
       src: "/assets/science_lab.png",
-      title: "Practical Chemistry Lab Session",
+      title: "Discovery Lab Activity",
       category: "academics",
-      desc: "Secondary level students conducting acid-base experiments."
+      desc: "Primary students exploring simple science concepts and models."
     },
     {
       src: "/assets/gallery_sports.png",

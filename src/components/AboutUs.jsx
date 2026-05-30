@@ -2,10 +2,10 @@ import { Eye, Shield, Award, Landmark } from 'lucide-react';
 
 export default function AboutUs() {
   const historyEvents = [
-    { year: "1998 AD", title: "Inception", desc: "Established as a primary school with just a handful of students and a dream to serve Sehari, Nawalpur." },
-    { year: "2008 AD", title: "Lower Secondary upgrade", desc: "Expanded classes to Class 8 to provide continuation of quality education closer to local families." },
-    { year: "2018 AD", title: "Secondary Level Accreditation", desc: "Officially accredited for Class 10 (Secondary level) by the National Examination Board." },
-    { year: "2024 AD", title: "Modern Campus Upgrade", desc: "Equipped classrooms with interactive tools and built high-quality laboratories." }
+    { year: "1998 AD", title: "Inception", desc: "Established as a pre-primary school with just a handful of students and a dream to serve Sehari, Nawalpur." },
+    { year: "2008 AD", title: "Campus Expansion", desc: "Constructed new classrooms and outdoor play areas to accommodate growing early childhood education needs." },
+    { year: "2018 AD", title: "Primary Level Upgrade", desc: "Expanded classes up to Class 4 to provide a solid foundation for elementary education." },
+    { year: "2024 AD", title: "Modern Campus Upgrade", desc: "Equipped classrooms with interactive learning tools and child-friendly facilities." }
   ];
 
   return (
@@ -40,7 +40,7 @@ export default function AboutUs() {
               />
               <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-school-navy-950 via-school-navy-900/80 to-transparent p-6 text-white text-left">
                 <span className="block text-xs uppercase tracking-wider text-school-gold-400 font-bold">Principal</span>
-                <span className="text-lg font-bold">Mrs. Sharmila KC</span>
+                <span className="text-lg font-bold">XYZ</span>
               </div>
             </div>
           </div>
@@ -67,8 +67,8 @@ export default function AboutUs() {
             </div>
             
             <div className="pt-4 border-t border-slate-100">
-              <p className="font-extrabold text-school-navy-900 text-base">Mrs. Sharmila KC</p>
-              <p className="text-xs text-slate-400 font-bold uppercase tracking-wider">M.Ed. in Educational Leadership</p>
+              <p className="font-extrabold text-school-navy-900 text-base">XYZ</p>
+              <p className="text-xs text-slate-400 font-bold uppercase tracking-wider">Principal</p>
             </div>
           </div>
         </div>

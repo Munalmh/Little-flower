@@ -2,8 +2,8 @@ import { ArrowRight, BookOpen, Calendar, ShieldCheck, Trophy } from 'lucide-reac
 
 export default function Hero({ onTourClick, onApplyClick }) {
   const stats = [
-    { icon: <BookOpen className="w-5 h-5 text-school-gold-400" />, label: "Quality Curriculums", value: "Primary - Sec" },
-    { icon: <Trophy className="w-5 h-5 text-school-gold-400" />, label: "Success Rate", value: "100% SEE" },
+    { icon: <BookOpen className="w-5 h-5 text-school-gold-400" />, label: "Grade Range", value: "Nursery - Class 4" },
+    { icon: <Trophy className="w-5 h-5 text-school-gold-400" />, label: "Development Focus", value: "Child-Centric" },
     { icon: <ShieldCheck className="w-5 h-5 text-school-gold-400" />, label: "Established Year", value: "1998 AD" },
   ];
 

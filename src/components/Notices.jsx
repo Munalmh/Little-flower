@@ -12,7 +12,7 @@ export default function Notices() {
       date: "May 28, 2026",
       category: "admission",
       type: "Important",
-      summary: "Admissions are officially open for Primary, Lower Secondary, and Secondary classes. Collect forms from the school desk.",
+      summary: "Admissions are officially open for Pre-Primary and Primary classes (Nursery to Class 4). Collect forms from the school desk.",
       content: "Little Flower School is pleased to announce that registrations and admissions for the upcoming academic session 2026/27 are now open. We invite parents and guardians to visit the school administration office between 9:00 AM and 3:00 PM on working days to collect admission prospectuses and application forms. Entrance tests will be conducted on a rolling basis starting next week. For fee details, syllabus outlines, and scholarship options, please visit our admission inquiry desk."
     },
     {
@@ -22,7 +22,7 @@ export default function Notices() {
       category: "academic",
       type: "General",
       summary: "The detailed schedule for the upcoming First Terminal Examinations starting from June 15 has been published.",
-      content: "The First Terminal Examinations for classes Nursery to X are scheduled to begin on June 15, 2026. The full subject-wise exam schedule, along with rules and regulations, has been distributed to students and is also pinned on classroom notice boards. Students are requested to clear all outstanding school dues before June 8 to obtain their Admit Cards. Regular classes will run as normal until June 10, after which preparation holidays will commence. We wish all students the very best for their preparations."
+      content: "The First Terminal Examinations for classes Nursery to IV are scheduled to begin on June 15, 2026. The full subject-wise exam schedule, along with rules and regulations, has been distributed to students and is also pinned on classroom notice boards. Students are requested to clear all outstanding school dues before June 8 to obtain their Admit Cards. Regular classes will run as normal until June 10, after which preparation holidays will commence. We wish all students the very best for their preparations."
     },
     {
       id: 3,

@@ -4,45 +4,45 @@ export default function Academics() {
   const levels = [
     {
       icon: <Compass className="w-8 h-8 text-school-navy-900" />,
-      title: "Primary Level",
-      grades: "Grade 1 - 5",
-      desc: "Focusing on building core literacy, numeracy, social skills, and creative self-expression in young minds.",
-      highlights: ["Interactive learning", "Language foundations", "Arts & crafts program", "E-learning basics"]
+      title: "Pre-Primary Level",
+      grades: "Nursery, LKG & UKG",
+      desc: "Nurturing early childhood development through play-based learning, sensory exploration, and basic social-emotional skills.",
+      highlights: ["Play-based learning", "Sensory activities", "Basic phonics & numbers", "Social skill building"]
     },
     {
       icon: <GraduationCap className="w-8 h-8 text-school-navy-900" />,
-      title: "Lower Secondary Level",
-      grades: "Grade 6 - 8",
-      desc: "Deepening theoretical knowledge, introducing advanced scientific concepts, and cultivating teamwork values.",
-      highlights: ["Hands-on lab experiments", "Pre-algebra & geometry", "Computer applications", "Inter-school debates"]
+      title: "Lower Primary Level",
+      grades: "Class 1 & 2",
+      desc: "Introducing formal academic concepts in reading, writing, mathematics, and environmental studies in a gentle, engaging environment.",
+      highlights: ["Core reading & writing", "Foundational mathematics", "Creative arts & music", "Interactive story hours"]
     },
     {
       icon: <Award className="w-8 h-8 text-school-navy-900" />,
-      title: "Secondary Level",
-      grades: "Grade 9 - 10 (SEE Prep)",
-      desc: "Comprehensive academic training aligned with the national curriculum, equipping students for SEE achievements.",
-      highlights: ["Rigorous exam preparation", "Specialized Science streams", "Career guidance counseling", "Computer coding classes"]
+      title: "Upper Primary Level",
+      grades: "Class 3 & 4",
+      desc: "Developing independent thinking, critical reasoning, introductory computer literacy, and collaborative project-based learning.",
+      highlights: ["Critical thinking", "Introductory computers", "Science & environment", "Collaborative projects"]
     }
   ];
 
   const facilities = [
     {
       image: "/assets/science_lab.png",
-      title: "Science Laboratory",
-      desc: "A fully equipped laboratory that allows students to perform practical experiments in Physics, Chemistry, and Biology. Features modern microscopes, chemical agents, and safety equipment to foster scientific inquiry.",
-      features: ["Advanced Microscopes", "Full Safety Equipment", "Chemical Reagents & Apparatus", "Hands-on Student Desks"]
+      title: "Discovery Center",
+      desc: "An interactive room where young students engage with science models, nature study materials, and simple safety-first experiments that spark their curiosity about the physical world.",
+      features: ["Simple Science Models", "Safety-first Environment", "Hands-on Activity Kits", "Nature Study Materials"]
     },
     {
       image: "/assets/computer_lab.png",
       title: "Computer Center",
-      desc: "Our state-of-the-art computer center has rows of modern desktop systems with high-speed internet. Students learn digital literacy, document building, internet research, and basic coding paradigms.",
-      features: ["Latest Desktop systems", "High-speed Internet connection", "Individual student seating", "Coding & Office Suite training"]
+      desc: "Our child-friendly computer center introduces students to basic digital literacy, educational games, typing skills, and creative drawing tools.",
+      features: ["Child-friendly Desktop systems", "Educational learning software", "Guided instructor supervision", "Basic typing & drawing apps"]
     },
     {
       image: "/assets/library.png",
       title: "Resource Library",
-      desc: "A quiet, welcoming reading haven housing over 5,000 reference books, classic novels, children's literature, and educational journals. It encourages reading habits and assists in course-related research.",
-      features: ["5,000+ Books & Journals", "Cozy Reading Alcoves", "Academic Reference Section", "Newspaper & Bulletin board"]
+      desc: "A cozy and colorful reading room housing illustrated books, children's literature, storybooks, and educational games to foster a lifelong love for reading.",
+      features: ["Colorful Reading Alcoves", "Illustrated Storybooks", "Educational Board Games", "Guided Reading Sessions"]
     }
   ];
 
